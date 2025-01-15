@@ -1,7 +1,5 @@
 package test;
 
-import java.util.Arrays;
-
 public class Arr {
 
 	public static void getSumOfSquareOfNnumber(int n) {
